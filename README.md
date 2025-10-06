@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./.github/assets/banner_github_jgt.png" alt="Banner Jessica Ghirardelli Tinguely" />
+  <img src="./.github/assets/banner_github_j.png" alt="Banner Jessica Ghirardelli Tinguely" />
 </p>
 
 <h1 align="center">Olá! Eu sou a Jessica Ghirardelli Tinguely</h1>
