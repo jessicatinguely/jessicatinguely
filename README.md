@@ -2,9 +2,6 @@
   <img src="./.github/assets/banner.png" alt="Banner Jessica Ghirardelli Tinguely" />
 </p>
 
-<h1 align="center">Olá! Eu sou a Jessica Ghirardelli Tinguely</h1>
-<p align="center"><em>Full-Stack Developer</em></p>
-
 ---
 
 ### 👩‍💻 Sobre mim
