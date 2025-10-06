@@ -1,14 +1,18 @@
 <p align="center">
-  <img src="./.github/assets/banner_github.png" alt="Banner" height="500">
+  <img src="./.github/assets/banner_github.png" alt="Banner Jessica Ghirardelli Tinguely" style="width:100%; max-height:100px; object-fit:contain;" />
 </p>
 
+---
+
+💻 **Full-Stack Developer** | 🎓 **FIAP – ADS (em andamento)** | 👩‍💻 **Generation Brasil – Bootcamp Java Full Stack** | 🤖 **Blue Prism Academy – Dirwa**
 
 ---
 
 ### 👩‍💻 Sobre mim
-Sou estudante de **Análise e Desenvolvimento de Sistemas (FIAP)** e participante do **Bootcamp Java Full Stack – Generation Brasil**.  
-Apaixonada por **tecnologia, dados** e em transformar ideias em soluções criativas.  
+Sou estudante de **Análise e Desenvolvimento de Sistemas (FIAP)** e participante do **Bootcamp Java Full Stack – Generation Brasil**, em processo de **migração de carreira da área de gestão para tecnologia**.  
+Apaixonada por **tecnologia, desenvolvimento de sistemas e automação**, busco unir minha experiência em negócios à programação para criar **soluções completas, eficientes e com propósito**.  
 ☕ Café, código e curiosidade me movem!
+
 
 ---
 
@@ -21,6 +25,16 @@ Apaixonada por **tecnologia, dados** e em transformar ideias em soluções criat
 | ⚙️ **Back-end e APIs** | Spring Boot, REST, JPA/Hibernate |
 | 🗄️ **Banco de Dados** | MySQL, PostgreSQL |
 | 🧪 **Ferramentas e IDEs** | Git/GitHub, VS Code, STS (Spring Tool Suite) |
+
+---
+
+### 🏅 Certificações e Formação
+
+- 🎓 **FIAP – Análise e Desenvolvimento de Sistemas** *(em andamento)*  
+- 👩‍💻 **Generation Brasil – Bootcamp Java Full Stack** *(em andamento)*  
+- 🤖 **Blue Prism Academy – Dirwa (Foundations Training)**  
+- 🎓 **Anhanguera – Graduação em Logística** *(concluída)*  
+- 🎓 **FGV – Pós-Graduação em Administração de Empresas** *(concluída)*  
 
 ---
 
@@ -52,9 +66,8 @@ Apaixonada por **tecnologia, dados** e em transformar ideias em soluções criat
 ### 🌐 Contato
 📫 [LinkedIn](https://www.linkedin.com/in/jessicatinguely)  
 💼 [Portfólio](https://jessicatinguely.github.io)  
-📧 **jessicatinguely@icloud.com**
+📧 **jessica.ghirardelli.t@gmail.com**
 
 ---
 
-<p align="center">✨ Feito com café, código e curiosidade. ✨</p>
-
+<p align="center">☕ Feito com café, código e curiosidade ✨</p>
