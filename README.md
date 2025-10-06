@@ -66,7 +66,7 @@ Apaixonada por **tecnologia, desenvolvimento de sistemas e automação**, busco 
 ### 🌐 Contato
 📫 [LinkedIn](https://www.linkedin.com/in/jessicatinguely)  
 💼 [Portfólio](https://jessicatinguely.github.io)  
-📧 **jessica.ghirardelli.t@gmail.com**
+📧 **jessicatinguely@icloud.com**
 
 ---
 
