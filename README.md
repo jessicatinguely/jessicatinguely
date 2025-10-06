@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="./.github/assets/banner_github.png" alt="Banner Jessica Ghirardelli Tinguely" />
+  <img src="./.github/assets/banner_github_jessicatinguely.png" alt="Banner" height="95">
 </p>
+
 
 ---
 
